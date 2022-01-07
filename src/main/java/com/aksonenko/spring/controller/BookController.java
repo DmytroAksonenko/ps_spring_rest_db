@@ -13,7 +13,7 @@ import com.aksonenko.spring.entity.Book;
 import com.aksonenko.spring.service.BookService;
 
 @Controller
-public class MyController {
+public class BookController {
 
 	@Autowired
 	private BookService bookService;
