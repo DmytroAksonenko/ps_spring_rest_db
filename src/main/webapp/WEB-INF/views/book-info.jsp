@@ -12,16 +12,16 @@
 		
 		<form:hidden path="id"/>
 	
-		Name <form:input path="name" />
+		Name &nbsp;<form:input path="name" />
 		<br>
 		<br>
-		Author <form:input path="author" />
+		Author <form:input path="author.id" />
 		<br>
 		<br>
-		Genre <form:input path="genre" />
+		Genre &nbsp;<form:input path="genre" />
 		<br>
 		<br>
-		Price <form:input path="price" />
+		Price &nbsp;<form:input path="price" />
 		<br>
 		<br>
 		<input type="submit" value="Accept">

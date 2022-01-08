@@ -6,12 +6,12 @@ import com.aksonenko.spring.entity.Book;
 
 public interface BookService {
 
-	public List<Book> getAllBooks();
+	List<Book> getAllBooks();
 
-	public void saveBook(Book book);
+	void saveBook(Book book);
 
-	public Book getBook(int id);
+	Book getBook(int id);
 
-	public void deleteBook(int id);
+	void deleteBook(int id);
 
 }

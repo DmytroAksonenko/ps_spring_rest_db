@@ -10,7 +10,7 @@ Same project as [ps_spring_rest (library without database)](https://github.com/D
 
 #### `Screenshots`
 
-`The table "books" from the database`
+`The table "books" and "authors" from the database`
 
 ![alt text](https://github.com/DmytroAksonenko/ps_spring_rest_db/blob/main/images/pssrdb1.JPG?raw=true)
 
