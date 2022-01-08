@@ -12,7 +12,7 @@ Same project as [ps_spring_rest (library without database)](https://github.com/D
 
 `The table "books" and "authors" from the database`
 
-![alt text](https://github.com/DmytroAksonenko/ps_spring_rest_db/blob/main/images/pssrdb1.JPG?raw=true)
+![alt text](https://github.com/DmytroAksonenko/ps_spring_rest_db/blob/main/images/pssrdb2.JPG?raw=true)
 
 `Output books from library to JSP page`
 
